@@ -40,7 +40,7 @@ Click the link above to explore our products, know our story, and understand our
 
 - HTML5
 - CSS3
-- Bootstrap (if applicable)
+- Bootstrap
 - Font Awesome Icons
 
 ## 🛠️ Setup
